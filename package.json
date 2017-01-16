@@ -1,24 +1,24 @@
 {
-	"name": "vue-ts-test",
-	"version": "1.0.0",
-	"description": "",
-	"main": "index.js",
-	"scripts": {
-		"webpack": "webpack"
-	},
-	"author": "",
-	"license": "ISC",
-	"dependencies": {
-		"av-ts": "^0.6.1",
-		"typescript": "^2.1.5",
-		"vue": "^2.1.8",
-		"vue-template-compiler": "^2.1.8"
-	},
-	"devDependencies": {
-		"@types/es6-promise": "0.0.32",
-		"css-loader": "^0.26.1",
-		"vue-loader": "^10.0.2",
-		"vue-ts-loader": "0.0.3",
-		"webpack": "^1.14.0"
-	}
+  "name": "vue-ts-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "av-ts": "^0.6.1",
+    "typescript": "^2.1.5",
+    "vue": "^2.1.8",
+    "vue-template-compiler": "^2.1.8"
+  },
+  "devDependencies": {
+    "@types/es6-promise": "0.0.32",
+    "css-loader": "^0.26.1",
+    "vue-loader": "^10.0.2",
+    "vue-ts-loader": "0.0.3",
+    "webpack": "^2.2.0-rc.6"
+  }
 }
